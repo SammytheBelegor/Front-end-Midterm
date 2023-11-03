@@ -8,7 +8,7 @@ Deployed link:
 https://sammythebelegor.github.io/Front-end-Midterm/
 
 LocalHost link:
-http://localhost:3000/SammytheBelegor/Front-end-Midterm
+http://192.168.0.100:3000/SammytheBelegor/Front-end-Midterm
 
 This is a simple React app that features a TextArea component. The component responds dynamically to user input, changing the text size, font, and color based on the text entered. It's a creative and interactive way to engage users while they type.
 
