@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,53 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React TextArea with Dynamic Effects
+
+This is a simple React app that features a TextArea component. The component responds dynamically to user input, changing the text size, font, and color based on the text entered. It's a creative and interactive way to engage users while they type.
+
+![App Screenshot](screenshot.png)
+
+## Features
+
+- Dynamic text size adjustment
+- Random font changes
+- Colorful text effects
+
+## Getting Started
+
+These instructions will help you set up the project and run it on your local machine.
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/text-area-app.git
+Navigate to the project directory:
+
+cd text-area-app
+Install the required dependencies:
+npm install
+Running the App
+Start the development server:
+
+npm start
+Open your web browser and go to http://localhost:3000 to see the app in action.
+
+Usage
+Type text in the TextArea, and watch the text size, font, and color change dynamically.
+Customization
+You can customize the app's behavior by modifying the handleInputChange function in src/TextArea.js. You can add your own creative effects and logic to make the app even more unique.
+
+Deployment
+You can deploy this app to a hosting service like GitHub Pages, Vercel, or Netlify to share it with others. Don't forget to update the homepage URL in your package.json for proper deployment.
+
+Built With
+React - JavaScript library for building user interfaces
+
+>>>>>>> 8526c57 (Second Commit)

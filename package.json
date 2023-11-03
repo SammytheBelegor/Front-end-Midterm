@@ -11,6 +11,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+<<<<<<< HEAD
+=======
+
+  
+>>>>>>> 8526c57 (Second Commit)
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -34,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+>>>>>>> 8526c57 (Second Commit)
   }
 }
