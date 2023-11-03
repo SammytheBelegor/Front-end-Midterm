@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "latest",
     "gh-pages": "^6.0.0"
   }
 }
