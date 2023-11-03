@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a simple React app that features a TextArea component. The component responds dynamically to user input, changing the text size, font, and color based on the text entered. It's a creative and interactive way to engage users while they type.
 
-![Screenshot](https://github.com/SammytheBelegor/Front-end-Midterm/assets/71520900/2a712f25-87ad-4d99-b27b-eca1090c4c93)
+![Screenshot](https://github.com/SammytheBelegor/Front-end-Midterm/assets/71520900/f1760b1f-74a9-4684-935d-bf20d81033f4)
 ![Screenshot2](https://github.com/SammytheBelegor/Front-end-Midterm/assets/71520900/39613eb1-b11e-4a56-b8ea-38357f36de0d)
 ![Screenshot 3)](https://github.com/SammytheBelegor/Front-end-Midterm/assets/71520900/81a68d28-0b83-4cfe-ae29-92e8e47ee314)
 
