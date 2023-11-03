@@ -93,4 +93,3 @@ You can deploy this app to a hosting service like GitHub Pages, Vercel, or Netli
 Built With
 React - JavaScript library for building user interfaces
 
->>>>>>> 8526c57 (Second Commit)
